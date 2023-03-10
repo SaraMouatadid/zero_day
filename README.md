@@ -1,1 +1,1 @@
-Hello UbuntuHello Ubuntu
+Hello Ubuntu
